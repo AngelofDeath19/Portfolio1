@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\bin\Debug\net7.0\Portfolio.exe
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\bin\Debug\net7.0\Portfolio.deps.json
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\bin\Debug\net7.0\Portfolio.runtimeconfig.json
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\bin\Debug\net7.0\Portfolio.dll
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\bin\Debug\net7.0\Portfolio.pdb
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.dll
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\obj\Debug\net7.0\refint\Portfolio.dll
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.pdb
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\obj\Debug\net7.0\Portfolio.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Рабочий стол\shit\trash\Portfolio\Portfolio\obj\Debug\net7.0\ref\Portfolio.dll
